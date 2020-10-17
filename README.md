@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**PrinceJelly/PrinceJelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Image of Chrome Dino](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
 
-Here are some ideas to get you started:
+# :sparkles: Jessica *(Jess)* Ballesteros              :bug: | @PrinceJelly :sparkles:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there! I'm currently working on my Web Dev Diploma at BrainStation located @ Vancouver, BC. 
+
+
+I spend a lot of time exploring my hobbies and right now it's coding! 
+I also enjoy illustrating & graphic design. 
+
+## Get in Touch :speech_balloon:
+* Instagram: https://www.instagram.com/princejelly.ig/
+* Linkedin: https://www.linkedin.com/in/jessica-ballesteros-604006155/
