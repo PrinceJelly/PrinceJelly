@@ -10,4 +10,4 @@ I also enjoy illustrating & graphic design.
 
 ## Get in Touch :speech_balloon:
 * Instagram: https://www.instagram.com/princejelly.ig/
-* Linkedin: https://www.linkedin.com/in/jessica-ballesteros-604006155/
+* Linkedin: https://www.linkedin.com/in/jessballesteros
