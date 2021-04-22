@@ -2,10 +2,13 @@
 
 # :sparkles: Jessica *(Jess)* Ballesteros              :bug: | @PrinceJelly :sparkles:
 
-Hi there! I'm currently working on my Web Dev Diploma at BrainStation located @ Vancouver, BC. 
+Hi there! 
 
+I'm currently how to learn PHP and Phython while compressing databases with Centaur CVDI. 
+Trying to gain experience within the tech industry and developing new skills. 
 
-I spend a lot of time exploring my hobbies and right now it's coding! 
+At the moment, I'm working on my personal website! Trying to convert my projects to be live demo'd. 
+
 I also enjoy illustrating & graphic design. 
 
 ## Get in Touch :speech_balloon:
