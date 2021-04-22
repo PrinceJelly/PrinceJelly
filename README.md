@@ -7,8 +7,6 @@ Hi there!
 I'm currently how to learn PHP and Phython while compressing databases with Centaur CVDI. 
 Trying to gain experience within the tech industry and developing new skills. 
 
-At the moment, I'm working on my personal website! Trying to convert my projects to be live demo'd. 
-
 I also enjoy illustrating & graphic design. 
 
 ## Get in Touch :speech_balloon:
