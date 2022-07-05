@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jessica</h1>
 <h3 align="center">A passionate full-stack developer in Vancouver, BC, Canada</h3>
 
-- 🔭 I’m currently working on **Rebuilding a shopify website**
+- 🔭 I’m currently working on **keeping up on my studies and solving algorithms on HackerRank!**
 
-- 🌱 I’m currently learning **PHP, Ruby, Liquid, Python**
+- 🌱 I’m currently learning **Python, Cloud Ops**
 
 - 👯 I’m looking to collaborate on **Front-end web development**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jessicarosewebdev@gmail.com**
 
-- ⚡ Fun fact **I am a caterpillar**
+- ⚡ Fun fact **I'm also an artist!r**
 
 <h3 align="left">Connect with me:</h3>
 Find me on [Linkedin](https://www.linkedin.com/in/jessballesteros/)
