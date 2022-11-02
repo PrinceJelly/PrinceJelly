@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Javascript, SCSS**
 
-- 📫 How to reach me <a href="mailto:jessicarosewebdev@gmail.com"> e-mail me  </a> or <a href="https://www.linkedin.com/in/jessballesteros/"> send a message on Linkedin! </a>
+- 📫 How to reach me visit my website and <a href="https://jroseweb.dev/">contact me here!</a> And you could <a href="https://www.linkedin.com/in/jessballesteros/"> send a message on Linkedin! </a>
 - ⚡ Fun fact **I'm also an artist!**
 
 <h3 align="left">Connect with me:</h3>
